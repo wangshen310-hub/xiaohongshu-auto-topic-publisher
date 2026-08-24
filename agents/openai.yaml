@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书图文全自动选题发布"
+  short_description: "不限主题完成差异化选题、视觉创作质检与Edge自动发布"
+  default_prompt: "使用 $xhs-auto-topic-publisher 完成一轮小红书图文选题、创作质检并准备发布。"

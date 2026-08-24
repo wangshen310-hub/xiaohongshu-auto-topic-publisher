@@ -1,0 +1,12 @@
+{
+  "title": "光落进旧玻璃",
+  "body": "傍晚经过一扇旧窗，灰尘把光分成了很慢的层次。时间没有停，只是暂时有了可以被看见的形状。",
+  "topics": ["#摄影", "#光影", "#视觉创作"],
+  "images": [
+    "C:/absolute/path/01.png",
+    "C:/absolute/path/02.png",
+    "C:/absolute/path/03.png"
+  ],
+  "logDir": "C:/absolute/path/publish_logs/2026-08-25",
+  "cdpUrl": "http://127.0.0.1:9223"
+}
